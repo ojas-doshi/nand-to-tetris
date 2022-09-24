@@ -1,2 +1,2 @@
 # nand-to-tetris
-Here all expriments are done of Nand To Tetris with tools
+Total Course from Coursera Nand2Tetris material is added here. Project material, tools and Assignment submitted.
