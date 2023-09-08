@@ -1,2 +1,4 @@
 *.zip
 *.out
+__pycache__/*
+*.pyc 
